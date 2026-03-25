@@ -1,2 +1,2 @@
 # Meus-Estudos-De-Html-Css
-Nesse repositório eu estarei colocando meus projetos e sites que eu ando aprendendo ao longo da minha trajetória.
+Nesse repositório eu fiz um dos meus primeiros sites em sala de aula, me acompanhe para ver mais!!
