@@ -1,0 +1,29 @@
+form{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+label{
+    display: block;
+    margin-top: 20px 0 5px;
+    font-size: 1.2em;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+input[type="checkbox"],
+input[type="radio"]{
+    width: auto;
+    margin-right: 10px;
+}
+
+.bottons{
+    display: flex;
+    
+}
