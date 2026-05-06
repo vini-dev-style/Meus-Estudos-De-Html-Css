@@ -25,5 +25,18 @@ input[type="radio"]{
 
 .bottons{
     display: flex;
-    
+    margin-top: 30px;
+    gap: 10px;
 }
+
+.bottons input{
+    background-color: rgb(38, 114, 150);
+    color: azure;
+}
+
+.bottons input:hover{
+    background-color: red;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
